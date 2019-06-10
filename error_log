@@ -1,0 +1,16 @@
+[30-Apr-2018 13:14:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:15:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:16:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:23:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'stamonic@localhost'@'localhost' (using password: YES) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:24:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'stamonic'@'localhost' to database 'bdrecicladora' in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[06-Aug-2018 19:44:09 UTC] PHP Warning:  include(post.php): failed to open stream: No such file or directory in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 133
+[06-Aug-2018 19:44:09 UTC] PHP Warning:  include(): Failed opening 'post.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 133
+[06-Aug-2018 19:44:09 UTC] PHP Warning:  include(../conect.php): failed to open stream: No such file or directory in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 152
+[06-Aug-2018 19:44:09 UTC] PHP Warning:  include(): Failed opening '../conect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 152
+[06-Aug-2018 19:44:09 UTC] PHP Notice:  Undefined variable: conn in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 158
+[06-Aug-2018 19:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/menu.php on line 158
+[08-Aug-2018 12:06:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/conect.php on line 21
+[08-Aug-2018 12:06:48 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/alvaradosalt/public_html/saxum-tech.com/demo/opesa/conect.php on line 22

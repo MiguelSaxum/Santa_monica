@@ -1,0 +1,5 @@
+[30-Apr-2018 13:14:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:15:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:16:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:23:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'stamonic@localhost'@'localhost' (using password: YES) in /home/stamonic/public_html/desarrollo/conect.php on line 14
+[30-Apr-2018 13:24:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'stamonic'@'localhost' to database 'bdrecicladora' in /home/stamonic/public_html/desarrollo/conect.php on line 14
